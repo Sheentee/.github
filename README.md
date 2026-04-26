@@ -18,7 +18,9 @@ I am calling this out explicitly because some folk have moral objections to the 
 
 ## Where to find the full Extension List
 (Warning: For the Chrome Web Store extension list, this is filtered on the term "sheentee", however this only lists all extensions published that contain the term "sheentee" anywhere in their title or meta data. FOR NOW, that only includes my extensions, but this could change at any time and this list is not always guaranteed to contain only my extensions, to be sure you need to check that the details page contains the meta data of "Offered by" as "Sheentee - Extensions" and the Developer Email as "extensions@sheentee.net")
+
 Get the full list of Sheentee extensions for Chrome browsers here: [https://chromewebstore.google.com/search/sheentee](https://chromewebstore.google.com/search/sheentee)
+
 And the full list for Firefox here: [https://addons.mozilla.org/en-US/firefox/user/19663458/](https://addons.mozilla.org/en-US/firefox/user/19663458/)
 
 ## What is the word Sheentee?
