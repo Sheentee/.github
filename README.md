@@ -12,7 +12,9 @@ These extensions are produced for my satisfaction and peace of mind. If you use 
 [PayPal Donations](https://www.paypal.com/donate/?hosted_button_id=ZB5Y7JEMGEGAS) accepted.
 
 ## AI was used during the Creation of these Extensions
-AI was used extensively in the creation of these extensions. But you don't have to trust that there are no mistakes, clone the repositories and satisfy yourself, no worries.
+AI was used extensively in the creation of these extensions. But you don't have to trust that there are no mistakes or risks introduced as a result, just clone the repositories and satisfy yourself, no worries.
+
+Because these extensions were created using AI, and because AI was trained by "borrowing" from many people's hard crafted work, these extensions are and will always be 100% public domain. They are released under the Creative Commons 0 ([CC0](https://creativecommons.org/public-domain/cc0/)) to guarantee they are 100% public domain. All repos are public.
 
 I am calling this out explicitly because some folk have moral objections to the use of AI. I acknowledge and even agree with those objections to an extent, however, that particular horse has bolted. Resisting the use of AI now is only holding you back, so I've decided to embrace it.
 
